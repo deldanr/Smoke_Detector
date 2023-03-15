@@ -14,10 +14,10 @@
 import tweepy
  
 twitter_auth_keys = {
-        "consumer_key"        : "9BhQl4SvIFdhXqvNKWhHoyqqj",
-        "consumer_secret"     : "jYVlIFnih3xbBh02eTZd8tBTDntD4J6rnpuRU54LGVr2apUMb7",
-        "access_token"        : "1598320269243961346-lZGQFDaY2NWjwR6epGS0N0ytWeo7rd",
-        "access_token_secret" : "RrjREPzVc5uOPmBiSWrVvgURHwGg2dpOkJ3VdzrWR6di4"
+        "consumer_key"        : "---",
+        "consumer_secret"     : "---",
+        "access_token"        : "-------",
+        "access_token_secret" : "---"
     }
  
 auth = tweepy.OAuthHandler(
