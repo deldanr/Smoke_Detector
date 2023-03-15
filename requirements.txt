@@ -1,0 +1,15 @@
+flask
+os
+shutil
+werkzeug
+tinydb
+tweepy
+numpy
+pandas
+requests
+time
+urllib
+bs4
+tensorflow
+Pillow
+io
